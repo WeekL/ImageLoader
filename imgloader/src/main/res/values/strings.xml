@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImgLoader</string>
+
+    <item name="imageloader_uri" type="id"/>
+</resources>
